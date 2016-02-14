@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChandanAssign1_1</string>
+    <string name="myName">Chandan Chugani</string>
+    <string name="actvity1">Launch First Activity</string>
+    <string name="activity2">Launch Second Activity </string>
+    <string name="browser">Launch Browser</string>
+    <string name="screen2">This is Screen 2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Chandan2Activity</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
